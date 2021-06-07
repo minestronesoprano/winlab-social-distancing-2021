@@ -1,6 +1,4 @@
-# Welcome to GitHub Pages!
-
-## [Go Home](https://github.com/mshankar58/winlab-social-distancing-2021/)
+## [Go Home](https://mshankar58.github.io/winlab-social-distancing-2021/)
 
 You can use the [editor on GitHub](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
