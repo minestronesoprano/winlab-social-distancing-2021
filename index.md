@@ -5,4 +5,4 @@ WINLAB Social Distancing 2021 [edit](https://github.com/mshankar58/winlab-social
  - Chose project clusters to work on
 
 
-Visit [Link](https://github.com/mshankar58/winlab-social-distancing-2021/help.html) for the original welcome page
+Visit [Help](https://mshankar58.github.io/winlab-social-distancing-2021/help.html) for the original welcome page
