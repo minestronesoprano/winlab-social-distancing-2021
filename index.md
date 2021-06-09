@@ -11,8 +11,9 @@
 * Set up project page
 * Plan: detect single person using YOLO, use them as anchor to create patches, count the people in each patch, and account for overlap
 
-### [Week 2](http://hasthelargehadroncolliderdestroyedtheworldyet.com/)
+### [Week 2](https://docs.google.com/presentation/d/1BQxArk1C2sRHngOjus9_ZxEkWO5-X4jzyPZdKtqA9M0/edit#slide=id.gdf5cfffc92_2_0)
 
+* Created Overleaf documentation
 * Accessed quad server and data
 
 
