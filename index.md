@@ -1,8 +1,7 @@
 # WINLAB Social Distancing 2021 
 
 ### Links
-[Overleaf documentation (read-only)](https://www.overleaf.com/read/dqktzfcfsxdb)
-
+[Overleaf documentation (read-only)](https://www.overleaf.com/read/dqktzfcfsxdb)  
 [Summer 2021 Orbit wiki](https://www.orbit-lab.org/wiki/Other/Summer/2021)
 
 ### [Week 1](https://docs.google.com/presentation/d/10ShJHYYFKcQgGqVLqGvah1pI3n8cUgC-pHTAbpTq5bU/edit?usp=sharing)
@@ -22,6 +21,6 @@
 * Intro to Keras and Jupyter notebook
 
 
-[original welcome page](https://mshankar58.github.io/winlab-social-distancing-2021/help.html)
+[original welcome page](https://mshankar58.github.io/winlab-social-distancing-2021/help.html)  
 [edit this page](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md)
 
