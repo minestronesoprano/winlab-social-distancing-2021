@@ -1,4 +1,5 @@
-# WINLAB Social Distancing 2021 
+# WINLAB Summer Internship 2021
+## Analyzing Social Distancing Based on Sensory Inputs
 
 ### Links
 [Overleaf documentation (read-only)](https://www.overleaf.com/read/dqktzfcfsxdb)  
@@ -8,18 +9,19 @@
 
 * Created Orbit and Safegraph accounts
 * Intro to command line and SSH
+* Learning about [project background](https://dl.acm.org/doi/pdf/10.1145/3417991)
 
 ### [Week 2](https://docs.google.com/presentation/d/1BQxArk1C2sRHngOjus9_ZxEkWO5-X4jzyPZdKtqA9M0/edit#slide=id.gdf5cfffc92_2_0)
 
 * Set up project page
 * Plan: detect single person using YOLO, use them as anchor to create patches, count the people in each patch, and account for overlap
-
-### Week 3
-
 * Created Overleaf documentation
+
+### [Week 3](https://docs.google.com/presentation/d/1iC-iT_pJ0wLGpHe-jpq336eBVQtAhqbGP4ktapv_ZIM/edit?usp=sharing) 
+
 * Accessed quad server and data
 * Intro to Keras and Jupyter notebook
-
+* YOLO tutorial for object detection
 
 [original welcome page](https://mshankar58.github.io/winlab-social-distancing-2021/help.html)  
 [edit this page](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md)
