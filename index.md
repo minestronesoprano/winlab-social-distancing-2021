@@ -29,6 +29,6 @@
 * Set up Pedestron model on server
 * Data visualiation is live
 
-[original welcome page](https://mshankar58.github.io/winlab-social-distancing-2021/help.html)  
+[help](https://mshankar58.github.io/winlab-social-distancing-2021/help.html)  
 [_______](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md)
 
