@@ -23,6 +23,12 @@
 * Intro to Keras and Jupyter notebook
 * YOLO tutorial for object detection
 
+### [Week 4](https://docs.google.com/presentation/d/1Oem8g_Sa2jdCDE677N2vLKdRGkU70E-g_ZYWBtIVHio/edit#slide=id.ge0c48ac287_0_0) 
+
+* Ran YOLO on quad server on small image set
+* Set up Pedestron model on server
+* Data visualiation is live
+
 [original welcome page](https://mshankar58.github.io/winlab-social-distancing-2021/help.html)  
 [edit this page](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md)
 
