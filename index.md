@@ -30,5 +30,5 @@
 * Data visualiation is live
 
 [original welcome page](https://mshankar58.github.io/winlab-social-distancing-2021/help.html)  
-[edit this page](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md)
+[_______](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md)
 
