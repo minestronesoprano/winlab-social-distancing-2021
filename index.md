@@ -27,7 +27,18 @@
 
 * Ran YOLO on quad server on small image set
 * Set up Pedestron model on server
-* Data visualiation is live
+* Data visualization is live
+
+### [Week 5](https://docs.google.com/presentation/d/1aMaNLTRuP8yg_G7ZaASCPXCzR2NJFCF0wWpVe4Htq1s/edit#slide=id.ge0c48ac287_0_8)
+
+* Abandoned Pedestron, not well-maintained
+* Ran full YOLO on a ~800-count image set
+* Got coordinates of people in images
+* Created new plan for patch creation
+
+### [Week 6](https://www.bing.com)
+
+*  script to create patches based on height
 
 [help](https://mshankar58.github.io/winlab-social-distancing-2021/help.html)  
 [_______](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md)
