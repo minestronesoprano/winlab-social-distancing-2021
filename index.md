@@ -38,7 +38,7 @@
 
 ### [Week 6](https://www.bing.com)
 
-*  script to create patches based on height
+* Script to create patches based on height
 
 [help](https://mshankar58.github.io/winlab-social-distancing-2021/help.html)  
 [_______](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md)
