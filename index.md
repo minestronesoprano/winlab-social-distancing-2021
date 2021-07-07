@@ -32,13 +32,16 @@
 ### [Week 5](https://docs.google.com/presentation/d/1aMaNLTRuP8yg_G7ZaASCPXCzR2NJFCF0wWpVe4Htq1s/edit#slide=id.ge0c48ac287_0_8)
 
 * Abandoned Pedestron, not well-maintained
-* Ran full YOLO on a ~800-count image set
+* Ran full YOLO on ~800 dashcam images
 * Got coordinates of people in images
 * Created new plan for patch creation
 
-### [Week 6](https://www.bing.com)
+### [Week 6](https://docs.google.com/presentation/d/1L_Y9ebGH6Eh2lV5zaIPwBvrQBcG91oZZQFBg30Iqz7Y/edit?usp=sharing)
 
-* Script to create patches based on height
+* Expanded rectangular patches around the subject
+* Accounted for out-of-frame errors when making bounding boxes
+* Made a simple function to calculate social distancing from camera-person distance in the 3D perspective
+* Brainstormed the idea of projecting a line of the same height as a person within the 3D perspective view
 
 [help](https://mshankar58.github.io/winlab-social-distancing-2021/help.html)  
 [_______](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md)
