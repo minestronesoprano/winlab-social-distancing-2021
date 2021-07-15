@@ -43,6 +43,11 @@
 * Made a simple function to calculate social distancing from camera-person distance in the 3D perspective
 * Brainstormed the idea of projecting a line of the same height as a person within the 3D perspective view
 
+### [Week 7](https://docs.google.com/presentation/d/1mUUeUaShCxW-Fm66W5QrSoKZiaxzdamT2c7Ni0zyQHM/edit?usp=sharing)
+* Tested and improved image cropping script on a 100-image set
+* Increased resolution of cropped out image patches and tested HD patches through YOLO for people detection -- images pre-processed with ESPCN works best
+* Formulated a distance detector using weighted euclidean approximation that can estimate the distance between people and how many people each person is around with the help of YOLO
+
 [help](https://mshankar58.github.io/winlab-social-distancing-2021/help.html)  
 [_______](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md)
 
