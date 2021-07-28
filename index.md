@@ -2,7 +2,6 @@
 ## Analyzing Social Distancing Based on Sensory Inputs
 
 ### Links
-[Overleaf documentation (read-only)](https://www.overleaf.com/read/dqktzfcfsxdb)  
 [Summer 2021 Orbit wiki](https://www.orbit-lab.org/wiki/Other/Summer/2021)
 
 ### [Week 1](https://docs.google.com/presentation/d/10ShJHYYFKcQgGqVLqGvah1pI3n8cUgC-pHTAbpTq5bU/edit?usp=sharing)
