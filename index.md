@@ -49,6 +49,19 @@
 * Increased resolution of cropped out image patches and tested HD patches through YOLO for people detection -- images pre-processed with ESPCN works best
 * Formulated a distance detector using weighted euclidean approximation that can estimate the distance between people and how many people each person is around with the help of YOLO
 
+### [Week 8](https://docs.google.com/presentation/d/1sxaUvzb8Z18OYT1ZFd_HudDcpWQN6w8dhFUv-rN7oBI/edit?usp=sharing)
+* Created and populated month-wise image directories for Manhattan
+* Ran the images through YOLO to separate people images and create patches and ran the patches through super resolution 
+* Compiled data of images, timestamps, locations, and quantified social distancing
+* Created different time bins and validated our results
+
+### [Week 9](https://docs.google.com/presentation/d/18DIcUvgcpOQKyfX-tceZOX1Pz7mrIY2b_BipZatWpKI/edit?usp=sharing)
+* Processed images for whole month of July for all boroughs
+* Made a temporal graph for image count of Manhattan per month
+* Aggregated Manhattan data per day and generated a bubbleplot that accounts for social distancing
+* Generated a bubble plot for social distancing as it depended on time of day
+* Obtained a POI dataset and scraped its Google category
+
   
 [_______](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md)
 
