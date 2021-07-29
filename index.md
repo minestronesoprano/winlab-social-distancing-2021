@@ -49,6 +49,6 @@
 * Increased resolution of cropped out image patches and tested HD patches through YOLO for people detection -- images pre-processed with ESPCN works best
 * Formulated a distance detector using weighted euclidean approximation that can estimate the distance between people and how many people each person is around with the help of YOLO
 
-[help](https://mshankar58.github.io/winlab-social-distancing-2021/help.html)  
+  
 [_______](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md)
 
