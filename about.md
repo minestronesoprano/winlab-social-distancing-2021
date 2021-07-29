@@ -1,6 +1,7 @@
 # About
 ## The Objective
-We want to measure how people are social distancing in New York City during the 2020 COVID-19 lockdown. We use dashcam and traffic camera images from different NYC neighborhoods, and analyze the images using YOLOv3.
+Our core objective is to gauge the effectiveness of social distancing policies on containing the transmission of the coronavirus by investigating social distancing among people in New York City during the 2020 COVID-19 lockdown. We used the data collected on pedestrian activities from the streets of NYC during and after the COVID-19 outbreak from public traffic cameras and vehicle dashcam footage. We used machine learning models YOLOv3 and Super Resolution to pre-process the image data and then created a distance estimation script to study social distancing in different NYC boroughs from March through August 2020. 
+
 ## The Team
 <img src="/images/pixil-frame-0.png" width="100" height="100">
 Justin
