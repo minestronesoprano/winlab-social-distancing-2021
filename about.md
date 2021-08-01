@@ -47,10 +47,10 @@
   </tr>
   <tr>
     <td><h3>Tahiya Chowdhury</h3>
-      <p>Project Mentor</p>
+      <p>Project Mentor <br> PhD Candidate, Computer Engineering <br> Rutgers University  </p>
     </td>
     <td><h3>Dr. Jorge Ortiz</h3>
-      <p>Advisor</p>
+      <p> Advisor <br> Assistant Professor, Electrical & Computer Engineering <br> Rutgers University </p>
     </td>
   </tr>
 </table>
