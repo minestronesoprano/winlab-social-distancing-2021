@@ -1,10 +1,5 @@
-# WINLAB Summer Internship 2021
-## Analyzing Social Distancing Based on Sensory Inputs
-
-
-## [About The Project](https://mshankar58.github.io/winlab-social-distancing-2021/about)
-[Summer 2021 Orbit wiki](https://www.orbit-lab.org/wiki/Other/Summer/2021)  
-
+# Analyzing Social Distancing Based on Sensory Inputs
+<h2>Weekly Updates</h2>
 
 ### [Week 1](https://docs.google.com/presentation/d/10ShJHYYFKcQgGqVLqGvah1pI3n8cUgC-pHTAbpTq5bU/edit?usp=sharing)
 
