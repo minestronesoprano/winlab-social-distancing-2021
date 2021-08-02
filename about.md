@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td><img src="https://mshankar58.github.io/winlab-social-distancing-2021/images/pixil-frame-0.png" width="100"></td>
-    <td><img src="https://mshankar58.github.io/winlab-social-distancing-2021/images/taqiya.jpg" width="100"></td>
+    <td><img src="https://mshankar58.github.io/winlab-social-distancing-2021/images/Taqiya pfp.jpg" width="100"></td>
     <td><img src="https://mshankar58.github.io/winlab-social-distancing-2021/images/m.jpg" width="100"></td>
   </tr>
   <tr>
