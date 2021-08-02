@@ -1,11 +1,11 @@
-# WINLAB Summer Internship 2021
-## Analyzing Social Distancing Based on Sensory Inputs
+<h1> <img src="https://mshankar58.github.io/winlab-social-distancing-2021/images/winlab.jpg" width="200"> WINLAB Summer Internship 2021 </h1>
+<h2> Analyzing Social Distancing Based on Sensory Inputs </h2> 
 
 <h2>The Objective</h2>
 <p>Our core objective is to gauge the effectiveness of social distancing policies on containing the transmission of the coronavirus by investigating social distancing among people in New York City during the 2020 COVID-19 lockdown. We used the data collected on pedestrian activities from the streets of NYC during and after the COVID-19 outbreak from public traffic cameras and vehicle dashcam footage. We used machine learning models YOLOv3 and Super Resolution to pre-process the image data and then created a distance estimation program to study social distancing in different NYC boroughs from March through August 2020.</p>
 
-<h3> <a href = "https://mshankar58.github.io/winlab-social-distancing-2021/">Weekly Project Updates</a> </h3>
-<h4> <a href = "https://www.orbit-lab.org/wiki/Other/Summer/2021"> Summer 2021 Orbit wiki</a> </h4>
+<h4> <a href = "https://mshankar58.github.io/winlab-social-distancing-2021/">Weekly Project Updates</a> </h4>
+<h4> <a href = "https://www.orbit-lab.org/wiki/Other/Summer/2021"> Summer 2021 ORBIT wiki</a> </h4>
 
 <h2> The Team</h2>
 <table>
