@@ -1,5 +1,4 @@
-<h1> <a href = "http://www.winlab.rutgers.edu"> <img src="https://github.com/mshankar58/winlab-social-distancing-2021/blob/main/images/winlab_rutgers.jpg" width="100"> </a> 
-WINLAB Summer Internship 2021 </h1>
+<h1> <a href = "http://www.winlab.rutgers.edu"> <img src="https://github.com/mshankar58/winlab-social-distancing-2021/blob/main/images/winlab_rutgers.jpg" width="100"> </a> WINLAB Summer Internship 2021 </h1>
 <h2> Analyzing Social Distancing Based on Sensory Inputs </h2> 
 
 <h2>The Objective</h2>
