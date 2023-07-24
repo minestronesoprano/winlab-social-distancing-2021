@@ -57,7 +57,8 @@
 * Generated a bubble plot for social distancing as it depended on time of day
 * Obtained a POI dataset and scraped its Google category
 
-### [Final Presentation] (https://docs.google.com/presentation/d/1lJ5VdrdlljR5ctEm5OwaA2SJ52mhiHMuS7mdYvhO7FY/edit?usp=sharing)
-  
+### [Final Presentation](https://docs.google.com/presentation/d/1lJ5VdrdlljR5ctEm5OwaA2SJ52mhiHMuS7mdYvhO7FY/edit?usp=sharing)
+
+Thank you for reading!
 ____
 
