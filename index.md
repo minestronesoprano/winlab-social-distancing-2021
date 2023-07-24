@@ -9,7 +9,7 @@
 
 ### [Week 2](https://docs.google.com/presentation/d/1BQxArk1C2sRHngOjus9_ZxEkWO5-X4jzyPZdKtqA9M0/edit#slide=id.gdf5cfffc92_2_0)
 
-* Set up project page
+* Set up [project page] (https://minestronesoprano.github.io/winlabsd2021/)
 * Plan: detect single person using YOLO, use them as anchor to create patches, count the people in each patch, and account for overlap
 * Created Overleaf documentation
 
@@ -57,6 +57,7 @@
 * Generated a bubble plot for social distancing as it depended on time of day
 * Obtained a POI dataset and scraped its Google category
 
+### [Final Presentation] (https://docs.google.com/presentation/d/1lJ5VdrdlljR5ctEm5OwaA2SJ52mhiHMuS7mdYvhO7FY/edit?usp=sharing)
   
-[_______](https://github.com/mshankar58/winlab-social-distancing-2021/edit/main/index.md)
+____
 
